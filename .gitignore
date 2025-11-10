@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Jupyter Notebooks checkpoints
+*.ipynb_checkpoints
+
+# Data files
+data/*.csv
+data/*.tsv
+data/*.xlsx
+data/*.json
+data/*.zip
+data/*.rar
+
+# Model files
+*.h5
+*.pkl
+*.joblib
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs and outputs
+*.log
+*.out
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# Environment/secret configs
+.env
