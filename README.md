@@ -18,7 +18,7 @@ A modular Python project for extracting keywords from BBC News articles using **
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone <https://github.com/DebanganMALI/Keyword-Extractor.git>
 cd Keyword-Extractor
 ```
 
